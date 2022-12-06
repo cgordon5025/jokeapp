@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{63F99E0C-BACA-4274-92EF-682529E85EDA}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.jokeapp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="jokeapp/Controllers/JokeController.cs">
+    <Files>
+      <File FileName="jokeapp/Models/Joke.cs" Line="15" Column="1" />
+      <File FileName="jokeapp/Views/Home/Index.cshtml" />
+      <File FileName="jokeapp/Data/ApplicationDbContext.cs" />
+      <File FileName="jokeapp/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs" />
+      <File FileName="jokeapp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" />
+      <File FileName="jokeapp/Controllers/JokeController.cs" Line="31" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="jokeapp" expanded="True">
+            <Node name="jokeapp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="JokeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Joke" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
